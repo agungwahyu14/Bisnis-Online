@@ -1,4 +1,6 @@
 Rencana Konten
 -Vlog
 -Tutorial Marketing
--
+-Tutorial iklan
+*facebook ads
+*google ads
